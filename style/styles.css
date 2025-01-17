@@ -1,0 +1,173 @@
+.fira-sans-thin {
+  font-family: "Fira Sans", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.fira-sans-extralight {
+  font-family: "Fira Sans", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.fira-sans-light {
+  font-family: "Fira Sans", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.fira-sans-regular {
+  font-family: "Fira Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fira-sans-medium {
+  font-family: "Fira Sans", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.fira-sans-semibold {
+  font-family: "Fira Sans", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.fira-sans-bold {
+  font-family: "Fira Sans", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.fira-sans-extrabold {
+  font-family: "Fira Sans", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.fira-sans-black {
+  font-family: "Fira Sans", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.fira-sans-thin-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.fira-sans-extralight-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.fira-sans-light-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.fira-sans-regular-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.fira-sans-medium-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.fira-sans-semibold-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.fira-sans-bold-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.fira-sans-extrabold-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.fira-sans-black-italic {
+  font-family: "Fira Sans", serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* color classes */
+.color1 {
+  color: rgba(14, 14, 14, 0.5);
+}
+
+.color2 {
+  color: rgba(14, 14, 14, 1);
+}
+
+/* Button styles */
+.btn-primary {
+  background-color: #006A50;
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 17px 24px 17px 24px;
+  border-radius: 8px;
+  border: none;
+  width: 270px;
+  height: 56px;
+}
+
+/* banner design */
+.bann-bg {
+  background-color: #C6E4D6;
+  margin: 160px;
+}
+
+.banner {
+  margin: 120px 160px;
+  display: flex;
+  justify-content: space-between;
+  padding: 59.99px;
+  border-radius: 24px;
+}
+
+header {
+  width: 1280px;
+  margin: 0px auto;
+  height: 560px;
+}
+
+.bannar-title {
+  font-weight: 500;
+  font-size: 24px;
+  margin: 24px;
+}
+
+.bannar-mess {
+  font-weight: 700;
+  font-size: 56px;
+  margin-top: 0px;
+}
+
+.banner-content {
+  width: 50%;
+  gap: 64px;
+}
+
+.banner-content,
+img {
+  width: 474.03px;
+  height: 400px;
+
+}
