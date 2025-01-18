@@ -107,6 +107,10 @@
 }
 
 /* color classes */
+.color0 {
+  background-color: rgba(241, 241, 243, 1);
+}
+
 .color1 {
   color: rgba(14, 14, 14, 0.5);
 }
@@ -121,6 +125,10 @@
 
 .color4 {
   background-color: rgba(247, 235, 207, 1);
+}
+
+.color5 {
+  background-color: #FFFFFF;
 }
 
 /* Button styles */
@@ -178,7 +186,6 @@
   margin: 160px;
 }
 
-header {}
 
 .bannar-title {
   font-weight: 500;
@@ -253,4 +260,43 @@ img {
 .vision {
   padding: 24px 24px;
   border-radius: 16px;
+}
+
+/* Recent News Design */
+.logo {
+  width: 134px;
+  height: 40px;
+}
+
+.new-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #0E0E0E;
+  margin-bottom: 24px;
+}
+
+.new-con-ti {
+  font-weight: 700;
+  font-size: 32px;
+  color: rgba(14, 14, 14, 0.8);
+}
+
+.new {
+  display: flex;
+  gap: 32px;
+  padding: 48px;
+  margin-bottom: 24px;
+  border-radius: 24px;
+}
+
+.new-img {
+  border-radius: 24px;
+}
+
+.new-info {
+  width: 58%;
+}
+
+.new-full {
+  margin: 160px;
 }
