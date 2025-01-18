@@ -131,22 +131,16 @@
 /* banner design */
 .bann-bg {
   background-color: #C6E4D6;
-  margin: 160px;
 }
 
 .banner {
-  margin: 120px 160px;
   display: flex;
   justify-content: space-between;
-  padding: 59.99px;
   border-radius: 24px;
+  margin: 160px;
 }
 
-header {
-  width: 1280px;
-  margin: 0px auto;
-  height: 560px;
-}
+header {}
 
 .bannar-title {
   font-weight: 500;
@@ -163,6 +157,7 @@ header {
 .banner-content {
   width: 50%;
   gap: 64px;
+  padding: 117px 59.99px;
 }
 
 .banner-content,
