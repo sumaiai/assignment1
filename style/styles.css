@@ -115,6 +115,14 @@
   color: rgba(14, 14, 14, 1);
 }
 
+.color3 {
+  background-color: rgba(84, 144, 245, 0.2);
+}
+
+.color4 {
+  background-color: rgba(247, 235, 207, 1);
+}
+
 /* Button styles */
 .btn-primary {
   background-color: #006A50;
@@ -126,6 +134,36 @@
   border: none;
   width: 270px;
   height: 56px;
+}
+
+.sec-btn {
+  background-color: rgba(84, 144, 245, 1);
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 11px 20px;
+  border-radius: 8px;
+  border: none;
+}
+
+.thi-btn {
+  background-color: rgba(9, 161, 92, 1);
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 11px 20px;
+  border-radius: 8px;
+  border: none;
+}
+
+.fou-btn {
+  background-color: rgba(255, 194, 57, 1);
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 11px 20px;
+  border-radius: 8px;
+  border: none;
 }
 
 /* banner design */
@@ -165,4 +203,54 @@ img {
   width: 474.03px;
   height: 400px;
 
+}
+
+/* Vision design */
+
+.title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #0E0E0E;
+  margin-bottom: 24px;
+}
+
+.descrip {
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(14, 14, 14, 0.7);
+  margin-bottom: 32px;
+}
+
+.vision img {
+  width: 64px;
+  height: 64px;
+
+}
+
+.vision h4 {
+  font-weight: 700;
+  font-size: 20px;
+  color: rgba(14, 14, 14, 0.8);
+  margin-bottom: 12px;
+}
+
+.vision p {
+  font-weight: 400;
+  font-size: 16;
+  margin-top: 0px;
+
+}
+
+.vision-con {
+  display: flex;
+  gap: 24px;
+}
+
+.vision-full {
+  margin: 160px;
+}
+
+.vision {
+  padding: 24px 24px;
+  border-radius: 16px;
 }
