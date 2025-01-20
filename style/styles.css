@@ -181,9 +181,10 @@
 
 .banner {
   display: flex;
-  justify-content: space-between;
   border-radius: 24px;
   margin: 160px;
+  padding: 117px 59.99px;
+  margin-top: 80px;
 }
 
 
@@ -199,18 +200,18 @@
   margin-top: 0px;
 }
 
-.banner-content {
+/* .banner-content {
   width: 50%;
   gap: 64px;
   padding: 117px 59.99px;
-}
+} */
 
-.banner-content,
+/* .banner-content,
 img {
   width: 474.03px;
   height: 400px;
 
-}
+} */
 
 /* Vision design */
 
@@ -299,4 +300,88 @@ img {
 
 .new-full {
   margin: 160px;
+}
+
+/* Donate styles */
+
+.amount {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.amount a:hover {
+  background-color: #006A50;
+  padding: 40px;
+  border-radius: 16px;
+  text-decoration: none;
+  color: rgba(14, 14, 14, 0.8);
+
+}
+
+.amount a {
+  background-color: #FFFFFF;
+  padding: 40px;
+  border-radius: 16px;
+  text-decoration: none;
+  color: rgba(14, 14, 14, 0.8);
+
+}
+
+.donate {
+  margin: 160px;
+}
+
+.other {
+  height: 64px;
+  padding: 0px 422.5px;
+  border: none;
+  margin: 32px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.diff {
+  background-color: #C6E4D6;
+  padding: 40px;
+  border-radius: 16px;
+  text-decoration: none;
+  color: rgba(14, 14, 14, 0.8);
+
+}
+
+/* Newsletter design */
+.nl-con {
+  display: flex;
+}
+
+footer input[type="email"] {
+  height: 55px;
+  width: 600px;
+  border: none;
+  border-radius: 8px;
+}
+
+.newletter {
+  margin: 0px 160px;
+  padding: 80px 265px;
+  background-color: #C6E4D6;
+  border-radius: 24px;
+  margin-bottom: 306px;
+}
+
+.hov:hover {
+  background-color: darkorchid;
+}
+
+.quote {
+  background-image: url("../B11A1--assignment-1/assets/quote-bg.png");
+  background-repeat: no-repeat;
+  padding: 48px 24px;
+  background-color: #FFFFFF;
+  margin-top: 32px;
+  border-radius: 16px;
+
 }
